@@ -35,7 +35,7 @@ headerTemp.classList.add("temp");
 
 headerDate.textContent = `SMARCH 28, 2019`;
 headerTitle.textContent = `Lambda Times`
-headerTemp.textContent = `98`;
+headerTemp.textContent = `98°`;
 
 
 return newHeader
